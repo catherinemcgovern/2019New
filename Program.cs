@@ -1,12 +1,17 @@
 ﻿using System;
 
-namespace _2019_New
+namespace Buffteks.Models
 {
-    class Program
+    public class Client
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        //project list
+        //id
+        //first name
+        //last name
+        //phone
+        //email
+        //organization
+        
+
     }
 }
